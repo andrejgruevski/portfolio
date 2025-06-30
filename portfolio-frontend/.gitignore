@@ -1,0 +1,30 @@
+# Node modules
+node_modules/
+
+# Build output
+dist/
+build/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+#  Environment variables
+.env
+.env.local
+.env.*.local
+
+# IDE config
+.vscode/
+.idea/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Optional: OS-specific or lockfiles (optional)
+*.log
+
+# 🔧 Optional: skip Mac icon files
+Icon?
